@@ -216,7 +216,7 @@ Este documento mapeia todos os campos `WID_FIELD_` utilizados em cada tipo de wi
 | `WID_ATIVO` | Se o widget está ativo ou não | `widget.WID_ATIVO` |
 | `WID_ID_PAG` (depreciado) | ID da página onde o widget está inserido | `widget.WID_ID_PAG` |
 | `PAG_COD` | Código da página | `widget.PAG_COD` |
-| `WID_TYPE` | Tipo do widget | `widget.Type` |
+| `WID_TYPE` | Tipo do widget | `widget.WID_TYPE` |
 | `WID_SIZE` | Tamanho/Layout do widget | `widget.WID_SIZE` |
 | `WID_ORDER` | Ordem de exibição do widget na página | `widget.WID_ORDER` |
 | `WID_DELETE` | Flag para marcação de exclusão | `widget.WID_DELETE` |
