@@ -210,14 +210,6 @@ Este documento mapeia todos os campos `WID_FIELD_` utilizados em cada tipo de wi
 
 ## 🔧 Campos Comuns
 
-### WID_TITLE
-**Presente em todos os widgets**
-- **Tipo:** text
-- **Descrição:** Título/Descrição do widget
-- **Uso:** Identifica e descreve o propósito do widget
-
----
-
 | Campo | Descrição | Valor |
 |-------|-----------|-------|
 | `WID_TITLE` | Título do widget | `widget.WID_TITLE` |
